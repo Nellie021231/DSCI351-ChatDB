@@ -21,7 +21,7 @@ Users can:
 ### 1. Clone the Repository & Set Up Virtual Environment
 
 ```bash
-git clone <>
+git clone https://github.com/Nellie021231/DSCI351-ChatDB.git
 cd ChatDB
 python3 -m venv .venv
 source .venv/bin/activate
